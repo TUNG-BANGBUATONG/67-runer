@@ -1,0 +1,6 @@
+{
+  "name": "67 Runner Forever",
+  "description": "An 80s retro endless runner game with 67 unique pixel obstacles, the mighty Boss 67, and minimalist synth sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
